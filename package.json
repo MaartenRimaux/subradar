@@ -1,0 +1,9 @@
+{
+  "name": "subradar",
+  "version": "1.0.0",
+  "description": "A subtitle radar to find the best subtitles for your file.",
+  "main": "./lib/index.js",
+  "repository": "https://github.com/MaartenRimaux/subradar.git",
+  "author": "Maarten Rimaux <maartenrimaux@gmail.com> (https://github.com/MaartenRimaux/)",
+  "license": "MIT"
+}
