@@ -2386,8 +2386,8 @@ sntp@1.x.x:
     hoek "2.x.x"
 
 sntp@2.x.x:
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/sntp/-/sntp-2.0.2.tgz#5064110f0af85f7cfdb7d6b67a40028ce52b4b2b"
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/sntp/-/sntp-2.1.0.tgz#2c6cec14fedc2222739caf9b5c3d85d1cc5a2cc8"
   dependencies:
     hoek "4.x.x"
 
@@ -2532,9 +2532,9 @@ text-table@~0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/text-table/-/text-table-0.2.0.tgz#7f5ee823ae805207c00af2df4a84ec3fcfa570b4"
 
-thesubdb@^1.0.7:
-  version "1.0.7"
-  resolved "https://registry.yarnpkg.com/thesubdb/-/thesubdb-1.0.7.tgz#b008ae8dab70d4219b7f93e7a32369b94b7316ae"
+thesubdb@^1.0.8:
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/thesubdb/-/thesubdb-1.0.8.tgz#2816c85a820d585cf5a7e7418afda36bea945e73"
   dependencies:
     fs-extra "^4.0.2"
     md5 "^2.2.1"
